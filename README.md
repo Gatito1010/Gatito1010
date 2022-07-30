@@ -1,7 +1,4 @@
-### Hi there 👋
-
-<!--
-**Gatito1010/Gatito1010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+e.
 
 Here are some ideas to get you started:
 
