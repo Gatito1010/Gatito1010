@@ -1,4 +1,4 @@
- <iframe src="https://github.com/sponsors/Gatito1010/button" title="Sponsor Gatito1010" height="35" width="116" style="border: 0;"></iframe>hi there 👋
+ I’m looking to collaborate on ...
 
 <!--
 **Gatito1010/Gatito1010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
