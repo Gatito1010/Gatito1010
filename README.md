@@ -1,5 +1,6 @@
- Gatito1010/Gatito1010 is a special repository: its README.md will appear on your profile2Gatito1010/Gatito1010 is a special repository: its README.md will appear on your profile
-
+Gatito1010/Gatito1010 es un repositorio especial: su README.md aparecerá en tu perfil2Gatito1010/Gatito1010 es un repositorio especial: su README.md aparecerá en tu perfil
+https://github.com/sponsors/Gatito1010/card
+<iframe src="https://github.com/sponsors/Gatito1010/card" title="Sponsor Gatito1010" height="225" width="600" style="border: 0;"></iframe>
 
 **Gatito1010/Gatito1010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
